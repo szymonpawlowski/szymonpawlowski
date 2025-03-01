@@ -1,6 +1,6 @@
-#👋 Basic information about me
+##👋 Basic information about me
 
-## 🎓 College student at Politechnika Krakowska im. Tadeusza Kościuszki
+### 🎓 College student at Politechnika Krakowska im. Tadeusza Kościuszki
 
 
 - 👀 I’m interested in ...
