@@ -5,11 +5,11 @@ Student of Geoinformatics
 
 ### 👀 Interests
 - 🏔 Hiking
-- 🗺 Geography
-- 🧭 Travelling
+- 🧭 Geography
 - 🔬 Science
+- 🎮 Games
 
-### Coding interests
+### 🖥️ Coding interests
 - 👾 Gamedev
 - 🤖 AI
 - 📐 Math/Physics
