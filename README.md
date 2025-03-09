@@ -1,16 +1,15 @@
-WIP
-<!---# 👋 Basic information about me
+## 👋 Basic information about me
 
 ### 🎓 College
-Geoinformatics at Politechnika Krakowska im. Tadeusza Kościuszki
+Student of Geoinformatics
 
 ### 👀 Interests
 - 🏔 Hiking
 - 🗺 Geography
 - 🧭 Travelling
-- 
+- 🔬 Science
 
-
-szymonpawlowski/szymonpawlowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Coding interests
+- 👾 Gamedev
+- 🤖 AI
+- 📐 Math/Physics
