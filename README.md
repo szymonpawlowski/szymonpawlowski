@@ -1,4 +1,4 @@
-## 👋 Basic information about me
+## 👋 A little about me
 
 ### 🎓 College
 Student of Geoinformatics
