@@ -2,6 +2,6 @@
 
 📒 Python & C++ developer
 
-✏️ Currently working on ML projects (linear regression & data recognition from imagery).
+✏️ Currently working on ML, data analysis & OpenGL projects.
 
 👀 Interested in data analysis, geospatial data & computer graphics.
